@@ -1,0 +1,5 @@
+requests==2.11.1
+python-telegram-bot==10.1.0
+lxml
+six
+scraperapi-sdk
