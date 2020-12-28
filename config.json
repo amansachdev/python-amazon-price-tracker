@@ -29,6 +29,6 @@
     },
     "item-to-parse": [
         // item id , your expected price, productname(optional)
-       ["B07QDSKGRD",500,"microphone"],["B07R39FHJX",250,"jbl"],["product/B07BMRFML8/ref=ox_sc_act_title_1?smid=A1X54IAKXCWO8D&psc=1",500,"speaker"],["B07C8VBHCB",250,"jbl2"]
+       ["B07QDSKGRD",500,"microphone"],["B07R39FHJX",250,"jbl"],["product/B07BMRFML8/ref=ox_sc_act_title_1?smid=A1X54IAKXCWO8D&psc=1",500,"speaker"],["B08R9Z26CD",500,"boat"]
     ]
 }
