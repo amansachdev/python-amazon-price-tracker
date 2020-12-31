@@ -8,7 +8,7 @@ def random_line(fname):
     return random.choice(lines)
 
 client = ScraperAPIClient('d0224166b175ddca1f18dd5b5cca66a5')
-result = client.get(url = 'http://httpbin.org/headers', 
+result = client.get(url = 'http://httpbin.org/ip', 
 	headers={
 	'useragent':random_line('user-agents.txt') }
 	)
