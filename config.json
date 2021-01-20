@@ -29,6 +29,6 @@
     },
     "item-to-parse": [
         // item id , your expected price, productname(optional)
-       ["B07QDSKGRD",500,"microphone"],["B07HKG44JM",500,"nokia"],["product/B07BMRFML8/ref=ox_sc_act_title_1?smid=A1X54IAKXCWO8D&psc=1",500,"speaker"],["B08R9Z26CD",500,"boat"],["B07BRYZD31",600,"sony"],["B07Q2FY255",2000,"jblspeaker"],["B07BMPH84K",100,"boatearphone"]
+       ["B07QDSKGRD",500,"microphone"],["B07HKG44JM",500,"nokia"],["product/B07BMRFML8/ref=ox_sc_act_title_1?smid=A1X54IAKXCWO8D&psc=1",500,"speaker"],["B08R9Z26CD",500,"boat"],["B07BRYZD31",600,"sony"],["B07Q2FY255",2000,"jblspeaker"],["B07CMGVPZ1",1000,"HOME"]
     ]
 }
