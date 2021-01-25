@@ -165,7 +165,7 @@ def get_price(url, selector):
         #imported_proxy = random_proxy.random_proxies()
         #print("proxy used was")
         #print(imported_proxy)
-        r = client.get(url, headers={
+        r = requests.get(url, headers={
         'User-Agent':random_line('user-agents.txt')
             ,
         'Accept-Language':    'zh-tw',
@@ -193,7 +193,7 @@ def get_price(url, selector):
         #imported_proxy = random_proxy.random_proxies()
         #print("proxy used was")
         #print(imported_proxy)
-            r = client.get(url, headers={
+            r = requests.get(url, headers={
         'User-Agent':random_line('user-agents.txt')
             ,
         'Accept-Language':    'zh-tw',
@@ -221,7 +221,7 @@ def get_price(url, selector):
         #imported_proxy = random_proxy.random_proxies()
         #print("proxy used was")
         #print(imported_proxy)
-                r = client.get(url, headers={
+                r = requests.get(url, headers={
         'User-Agent':random_line('user-agents.txt')
             ,
         'Accept-Language':    'zh-tw',
