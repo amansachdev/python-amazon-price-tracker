@@ -20,7 +20,7 @@ from lxml import html
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from datetime import date, datetime, timedelta
-client = ScraperAPIClient('82bef3c30204be6811351049add47ee7')
+client = ScraperAPIClient('fc82aac979ba378f7b4680c76019c2f2')
 #iplist = ['162.208.48.84:8118','165.138.4.41:8080']
 #proxies = {'https':random.choice(iplist) }
 #print(proxies)
@@ -165,7 +165,7 @@ def get_price(url, selector):
         #imported_proxy = random_proxy.random_proxies()
         #print("proxy used was")
         #print(imported_proxy)
-        r = requests.get(url, headers={
+        r = client.get(url, headers={
         'User-Agent':random_line('user-agents.txt')
             ,
         'Accept-Language':    'zh-tw',
@@ -193,7 +193,7 @@ def get_price(url, selector):
         #imported_proxy = random_proxy.random_proxies()
         #print("proxy used was")
         #print(imported_proxy)
-            r = requests.get(url, headers={
+            r = client.get(url, headers={
         'User-Agent':random_line('user-agents.txt')
             ,
         'Accept-Language':    'zh-tw',
@@ -221,7 +221,7 @@ def get_price(url, selector):
         #imported_proxy = random_proxy.random_proxies()
         #print("proxy used was")
         #print(imported_proxy)
-                r = requests.get(url, headers={
+                r = client.get(url, headers={
         'User-Agent':random_line('user-agents.txt')
             ,
         'Accept-Language':    'zh-tw',
