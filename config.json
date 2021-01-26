@@ -29,6 +29,6 @@
     },
     "item-to-parse": [
         // item id , your expected price, productname(optional)
-       ["B07D37JRW6",3500,"phillips"],["B08MKSD364",2000,"Boat AAvante"],["B07Q5Y9NQB",2000,"HOME"],["B07QDSKGRD",500,"mic"],["B07Q2FY255",1500,"jbl"]
+       ["B07D37JRW6",4000,"phillips"],["B08MKSD364",2000,"Boat AAvante"],["B07Q5Y9NQB",2000,"HOME"],["B07QDSKGRD",500,"mic"],["B07Q2FY255",2500,"jbl"]
     ]
 }
