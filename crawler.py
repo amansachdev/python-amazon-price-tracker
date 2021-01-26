@@ -354,6 +354,13 @@ def main():
                 msg_content['ServerState'] = ""
                 msg_content['code'] = 1 # 2 is server state
                 send_Notification(msg_content)
+		botToken = "1458960461:AAGNsxDSNl-begwUquQu1NgkilJ_hc5szA0"
+                chatId = "-1001388198553"
+                bot = telegram.Bot(botToken)
+                now = datetime.now()
+                current_time = now.strftime("%H:%M:%S")
+                bot.send_message(chat_id=chatId, text="I Am Tracking\n" + productName + '\n' + str(price) + '\n'+current_time)
+		
                 #items.remove(item)
             else:
                 print(('[#%02d] %s\'s price is %s. Ignoring...' % (itemIndex,productName,price)))
