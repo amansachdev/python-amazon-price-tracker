@@ -1,6 +1,6 @@
 {
     // time between each check (seconds)
-    "default-internal-time":30,
+    "default-internal-time":60,
     // 1 -> Email
     // 2 -> IFTTT
     // 3 -> Telegram
