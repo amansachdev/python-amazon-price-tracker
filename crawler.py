@@ -1,4 +1,4 @@
-#!/usr/bin/pythong
+#!/usr/bin/pythongh
 # -*- coding: utf-8 -*-
 #commit
 import os
