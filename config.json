@@ -29,6 +29,6 @@
     },
     "item-to-parse": [
         // item id , your expected price, productname(optional)
-       ["B08D4D1ZRR",100,"Biscuit"],["B08LPHPYT4",2000,"whey"],["B000MOEUMS",10000,"Biscuit"]
+       ["B08D4D1ZRR",100,"Biscuit"],["B08LPHPYT4",2000,"whey"]
     ]
 }
