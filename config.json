@@ -29,6 +29,6 @@
     },
     "item-to-parse": [
         // item id , your expected price, productname(optional)
-       ["B00UWS6YG4",4500,"hdd"],["B08MKSD364",2000,"boat"]
+       ["B081DZ245K",500,"boat1"],["B07BMPH84K",150,"boat"]
     ]
 }
