@@ -29,6 +29,6 @@
     },
     "item-to-parse": [
         // item id , your expected price, productname(optional)
-       ["B081DZ245K",500,"boat1"],["B07BMPH84K",150,"boat"]
+       ["B07BMPH84K",150,"boat"]
     ]
 }
