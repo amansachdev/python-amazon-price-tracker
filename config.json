@@ -29,6 +29,6 @@
     },
     "item-to-parse": [
         // item id , your expected price, productname(optional)
-       ["B08D4FNWNW",100,"kaju"]
+       ["",100,"kaju"]
     ]
 }
