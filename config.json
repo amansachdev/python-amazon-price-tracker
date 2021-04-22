@@ -1,6 +1,6 @@
 {
     // time between each check (seconds)
-    "default-internal-time":20,
+    "default-internal-time":30,
     // 1 -> Email
     // 2 -> IFTTT
     // 3 -> Telegram
@@ -29,6 +29,6 @@
     },
     "item-to-parse": [
         // item id , your expected price, productname(optional)
-       ["",500,"kaju"]
+       ["B07N7HPH8P",2500,"steamer1"],["B07RM4GKYR",2000,"steamer2"]
     ]
 }
