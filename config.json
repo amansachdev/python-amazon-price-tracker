@@ -22,7 +22,7 @@
         "chatId": "-1001327135247"
     },
     // amazon base url
-    "amazon-base_url": "https://www.amazon.in/dp/B074VH5RWC?tag=slash06-21&th=1&psc=1",
+    "amazon-base_url": "https://www.amazon.in/dp/",
     "xpath_selector" : {
         "price": "//*[@id='priceblock_ourprice']",
         "productname": "//*[@id='productTitle']"
