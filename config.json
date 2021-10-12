@@ -29,6 +29,6 @@
     },
     "item-to-parse": [
         // item id , your expected price, productname(optional)
-       ["B09B5C53FT",7000,"steamer1"],["B08JC848GN",1000,"steamer2"]
+       ["B09BR53TYF",1000,"MASK"]
     ]
 }
