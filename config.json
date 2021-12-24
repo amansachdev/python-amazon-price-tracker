@@ -29,7 +29,7 @@
     },
     "item-to-parse": [
         // item id , your expected price, productname(optional)
-       ["B07TRN6YNC",2000,"MASKs"]
+       ["B09NNDFLQY",2000,"MASKs"]
  
     ]
 }
