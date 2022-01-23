@@ -31,8 +31,7 @@
         // item id , your expected price, productname(optional)
        ["B07TRN6YNC",20000,"BenQ Monitor"],
        ["B08X7B6BRL",20000,"Fridge 500Ltr"],
-       ["B091PTC187",20000,"Fridge 600Ltr"],
-       ["B08TS9YFWY",20000,"Camera"]
+       ["B091PTC187",20000,"Fridge 600Ltr"]
   
      
     ]
