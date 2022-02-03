@@ -29,6 +29,9 @@
     },
     "item-to-parse": [
         // item id , your expected price, productname(optional)
+       ["B099DNQ6LF",20000,"Cadbury Combo"],
+       ["B09736T4JR",20000,"Cadbury Combo (2)"],
+       ["B08H89TXZ6",20000,"LG Monitor"],
        ["B07TRN6YNC",20000,"BenQ Monitor"],
        ["B08X7B6BRL",20000,"Fridge 500Ltr"],
        ["B091PTC187",20000,"Fridge 600Ltr"]
