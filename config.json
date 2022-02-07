@@ -30,6 +30,7 @@
     "item-to-parse": [
         // item id , your expected price, productname(optional)
        ["B099DNQ6LF",20000,"Cadbury Combo"],
+       ["B08CHXJB27",20000,"Popcorn"],
        ["B09736T4JR",20000,"Cadbury Combo (2)"],
        ["B08H89TXZ6",20000,"LG Monitor"]
 
