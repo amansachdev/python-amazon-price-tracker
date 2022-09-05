@@ -29,8 +29,8 @@
     },
     "item-to-parse": [
         // item id , your expected price, productname(optional)
-       ["B099KRX3GR",20000,"Monitor Renewed"],
-       ["B093LQ5FXP",20000,"Monitor"]
+       ["B099KRX3GR",20000,"Monitor Renewed"]
+      // ["B093LQ5FXP",20000,"Monitor"]
 
      
     ]
